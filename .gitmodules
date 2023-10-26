@@ -22,3 +22,6 @@
 [submodule "huggingface_hub"]
 	path = huggingface_hub
 	url = https://github.com/huggingface/huggingface_hub
+[submodule "tokenizers"]
+	path = tokenizers
+	url = https://github.com/huggingface/tokenizers
