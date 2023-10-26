@@ -1,0 +1,24 @@
+[submodule "accelerate"]
+	path = accelerate
+	url = https://github.com/huggingface/accelerate
+[submodule "optimum"]
+	path = optimum
+	url = https://github.com/huggingface/optimum
+[submodule "transformers"]
+	path = transformers
+	url = https://github.com/huggingface/transformers
+[submodule "quanto"]
+	path = quanto
+	url = https://github.com/huggingface/quanto
+[submodule "datasets-server"]
+	path = datasets-server
+	url = https://github.com/huggingface/datasets-server
+[submodule "optimum-benchmark"]
+	path = optimum-benchmark
+	url = https://github.com/huggingface/optimum-benchmark
+[submodule "peft"]
+	path = peft
+	url = https://github.com/huggingface/peft
+[submodule "huggingface_hub"]
+	path = huggingface_hub
+	url = https://github.com/huggingface/huggingface_hub
